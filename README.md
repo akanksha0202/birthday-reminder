@@ -1,3 +1,4 @@
-## Idea
+Remind your close ones birthday by setting reminders.
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+Technologies used: ReactJS, JSX, Single Page Web Application
+
